@@ -7,11 +7,8 @@ I am graduating from the Information Systems course at the Federal University of
 * I want to learn about Web Development 
 * To send me an email, [click here!](mailto:viniciusqquei@gmail.com)!
 
-
-
 ## Find-me on:
-![https://www.linkedin.com/in/vinicius-queiroz-851033201/](src/linkedin-original.png) 
-
+[<img src="src/linkedin-original.png">](https://www.linkedin.com/in/vinicius-queiroz-851033201/)
 
 ## Languages, Tools and Skills: 
 ![Unity](src/unity.png)
