@@ -1,55 +1,30 @@
 # Hi, I'm Vinicius Queiroz! 💻
 
-I have a bachelor's degree in Information Systems and I'm doing my master's degree in Computer Science. Both from the Federal University of Pará (UFPA). Nowadays I'm a C# and .Net developer. 👨🏻‍💻
+<img align="right" width="300" src="https://camo.githubusercontent.com/4c8d92806e3c2322a2c390ffa0019c1d6f78a4d82108aa6946863ae362a763c8/68747470733a2f2f69322e77702e636f6d2f616c6c68746163636573732e696e666f2f77702d636f6e74656e742f75706c6f6164732f323031382f30332f70726f6772616d6d696e672e6769663f6669743d313238312532433731362673736c3d31" />
 
-* My research is focused on Information Visualization (InfoVis), Data Physicalization, Augmented and Virtual Reality 🔍
-* I love playing video-games and for now I'm playing Zelda Breath of the Wild 🎮
-* For now, I'm learning .Net, C# and Crystal Reports 📚
+I have a master's degree in computer science and a bachelor's degree in information systems, both from the Federal University of Pará. Currently, I work as a backend developer with a focus on .NET, Java, Kotlin, and Python.
+
+* I have previously worked with data visualization, mobile development, augmented and virtual reality 🔍
+* I love playing video-games and I'm playing Project Zomboid now 🎮
+* For now, I'm learning Kotlin 📚
 * [Mail-me here! ](mailto:viniciusqquei@gmail.com) 📩
 
-## Find-me on:
-[<img src="src/linkedin-original.png">](https://www.linkedin.com/in/vinicius-queiroz-851033201/)
+## Languages
+- <b>Back-end:</b> .NET, Kotlin, Java, Python;
+- <b>Front-end:</b> Javascript, Angular, Bootstrap, JSF, JSP, RazorPages;
+- <b>Tools and Others:</b> Git, Docker, Crystal Repots, Unity 3D;
+- <b>Operational System: </b> Any.
 
-## Languages, Tools and Skills: 
-### Games: 
-<img src="src/unity-original.svg" alt="Unity 3D" width="30"/>
-<img src="src/android-original.svg" alt="android" width="30"/>
+## Certification
+- Java SE 8 Programmer I - 1Z0-808 
 
-### Backend:
-<img src="src/csharp-original.svg" alt="CSharp" width="30"/>
-<img src="src/dot-net-plain-wordmark.svg" alt="Dot-net" width="30"/>
-<img src="src/java-original-wordmark.svg" alt="Java" width="30"/>
+## Find-me on
 
-### Web:
-<img src="src/wordpress-plain.svg" alt="Wordpress" width="30"/>
-<img src="src/html5-original-wordmark.svg" alt="HTML5" width="30"/>
-<img src="src/css3-original-wordmark.svg" alt="CSS3" width="30"/>
-<img src="src/javascript-original
-.svg" alt="JavaScript" width="30"/>
-<img src="src/threejs-original.svg" alt="threejs" width="30"/>
-
-### Data Science:
-<img src="src/python-original.svg" alt="Python" width="30"/>
-<img src="src/opencv-original-wordmark.svg" alt="OpenCV" width="30"/>
-<img src="src/numpy-original.svg" alt="Numpy" width="30"/>
-<img src="src/pandas-original-wordmark.svg" alt="Pandas" width="30"/>
-<img src="src/jupyter-original.svg" alt="Jupyter Notebook" width="30"/>
-
-### Database:
-<img src="src/mysql-plain.svg" alt="MySQL" width="30"/>
-
-### Operational Systems
-<img src="src/windows-original.svg" alt="Microsoft Windows" width="30"/>
-<img src="src/ubuntu-plain.svg" alt="Ubuntu" width="30"/>
-
-### Tools:
-<img src="src/chrome-original.svg" alt="Google Chrome" width="30"/> ![Rider](src/rider.png) ![PyCharm](src/pycharm.png) <img src="src/visualstudio-plain.svg" alt="Visual Studio" width="30"/> <img src="src/vscode-original.svg" alt="VS Code" width="30"/> ![Notepad++](src/n++.png) <img src="src/git-original.svg" alt="Git" width="30"/>
-
-***
-### Credits:
-- SVG Icons: 
-[Devicon](https://devicon.dev/)
-
-
-
-
+<p align="left">
+  <a href="mailto:viniciusqquei@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:viniciusqquei@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/queirozvf/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/queirozvf/" /></a>
+  <a href="wa.me/+5591993701391" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/+5591993701391"/></a>
+</p>
